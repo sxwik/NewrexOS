@@ -395,6 +395,19 @@ docs/       Documentation & Screenshots
 
 ---
 
+## Development Notes
+
+Newrex is developed with a mixture of:
+
+- Manual systems programming
+- Documentation research
+- AI-assisted code generation
+- Manual debugging and integration
+
+All features are tested and validated inside QEMU before release.
+
+---
+
 # License
 
 This project is licensed under the MIT License.
