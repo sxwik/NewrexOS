@@ -1,5 +1,16 @@
+# Build artifacts
 *.o
 *.bin
 *.iso
+
+# Disk images
 *.img
 *.bak
+
+# Temporary files
+*.log
+*.tmp
+
+# Editors
+.vscode/
+.idea/
